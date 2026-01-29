@@ -1,0 +1,46 @@
+#ex1
+x = 1
+if x == 1:
+    print("One")
+elif x == 2:
+    print("Two")
+else:
+    print("Other")
+
+#ex2
+day = 3
+if day == 1:
+    print("Mon")
+elif day == 2:
+    print("Tue")
+elif day == 3:
+    print("Wed")
+else:
+    print("Other")
+
+#ex3
+value = "a"
+if value == "a":
+    print("A")
+elif value == "b":
+    print("B")
+else:
+    print("C")
+
+#ex4
+num = 10
+if num == 5:
+    print("Five")
+elif num == 10:
+    print("Ten")
+else:
+    print("None")
+
+#ex5
+choice = 0
+if choice == 0:
+    print("Exit")
+elif choice == 1:
+    print("Start")
+else:
+    print("Unknown")

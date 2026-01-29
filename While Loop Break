@@ -1,0 +1,29 @@
+#ex1
+i = 0
+while True:
+    print(i)
+    break
+
+#ex2
+x = 0
+while x < 5:
+    if x == 3:
+        break
+    x += 1
+
+#ex3
+while True:
+    break
+
+#ex4
+i = 1
+while i < 5:
+    if i == 2:
+        break
+    print(i)
+    i += 1
+
+#ex5
+while True:
+    print("Stop")
+    break

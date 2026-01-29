@@ -1,0 +1,26 @@
+#ex1
+i = 0
+while i < 3:
+    print(i)
+    i += 1
+
+#ex2
+x = 5
+while x > 0:
+    print(x)
+    x -= 1
+
+#ex3
+count = 1
+while count <= 3:
+    print("Hi")
+    count += 1
+
+#ex4
+n = 0
+while n < 2:
+    print("Loop")
+
+#ex5
+while False:
+    print("No run")

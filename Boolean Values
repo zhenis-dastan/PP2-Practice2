@@ -1,0 +1,14 @@
+#ex1
+is_true = True
+
+#ex2
+is_false = False
+
+#ex3
+print(True)
+
+#ex4
+print(False)
+
+#ex5
+x = bool(1)

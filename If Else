@@ -1,0 +1,30 @@
+#ex1
+if 5 > 10:
+    print("Yes")
+else:
+    print("No")
+
+#ex2
+x = 3
+if x > 5:
+    print("Big")
+else:
+    print("Small")
+
+#ex3
+if True:
+    print("OK")
+else:
+    print("Error")
+
+#ex4
+if 0:
+    print("True")
+else:
+    print("False")
+
+#ex5
+if 10 == 10:
+    print("Equal")
+else:
+    print("Not equal")

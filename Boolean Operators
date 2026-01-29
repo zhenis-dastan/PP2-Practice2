@@ -1,0 +1,14 @@
+#ex1
+print(True and True)
+
+#ex2
+print(True and False)
+
+#ex3
+print(True or False)
+
+#ex4
+print(not True)
+
+#ex5
+print((5 > 3) and (10 > 7))

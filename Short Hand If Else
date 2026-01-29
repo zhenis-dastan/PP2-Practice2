@@ -1,0 +1,18 @@
+#ex1
+print("Yes") if 5 > 3 else print("No")
+
+#ex2
+a = 10
+b = 5
+print("A") if a > b else print("B")
+
+#ex3
+x = 0
+result = "True" if x else "False"
+
+#ex4
+age = 18
+status = "Adult" if age >= 18 else "Child"
+
+#ex5
+print("Even") if 4 % 2 == 0 else print("Odd")

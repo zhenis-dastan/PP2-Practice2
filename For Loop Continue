@@ -1,0 +1,27 @@
+#ex1
+for i in range(5):
+    if i == 2:
+        continue
+    print(i)
+
+#ex2
+for ch in "Python":
+    if ch == "o":
+        continue
+    print(ch)
+
+#ex3
+for i in range(3):
+    continue
+
+#ex4
+for i in [1, 2, 3]:
+    if i == 1:
+        continue
+    print(i)
+
+#ex5
+for i in range(5):
+    if i % 2 == 0:
+        continue
+    print(i)
